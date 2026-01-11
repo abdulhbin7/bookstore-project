@@ -4,6 +4,8 @@ A full-featured Online Bookstore application designed to manage book sales and i
 
 ## 🚀 Features
 
+<img width="2038" height="1271" alt="image" src="https://github.com/user-attachments/assets/98d3f1c8-8780-4316-9df7-5c1b840c2078" />
+
 ### User Side:
 - **User Authentication:** Secure Sign-up and Login system.
 - **Book Catalog:** Browse books by category, author, or price.
