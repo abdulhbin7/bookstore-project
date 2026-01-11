@@ -1,6 +1,6 @@
-# 📚 Online Bookstore Project
+# 📚 Online Arabic Bookstore Project
 
-A full-featured Online Bookstore application designed to manage book sales and inventory. This project was developed to demonstrate web development skills using the LAMP/WAMP stack.
+A full-featured Online Arabic Bookstore application designed to manage book sales and inventory. This project was developed to demonstrate web development skills using the LAMP/WAMP stack.
 
 ## 🚀 Features
 
