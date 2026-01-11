@@ -1,4 +1,4 @@
-# 📚 Online Bookstore Project
+<img width="2560" height="1282" alt="image" src="https://github.com/user-attachments/assets/cb49a883-8529-4293-a080-26745f71fc40" /># 📚 Online Bookstore Project
 
 A full-featured Online Bookstore application designed to manage book sales and inventory. This project was developed to demonstrate web development skills using the LAMP/WAMP stack.
 
@@ -12,6 +12,8 @@ A full-featured Online Bookstore application designed to manage book sales and i
 - **Search Functionality:** Quickly find books by title or keywords.
 - **Shopping Cart:** Add/Remove items and manage quantities before checkout.
 - **Order History:** (Optional) View previous purchases.
+
+<img width="2560" height="1282" alt="image" src="https://github.com/user-attachments/assets/ef86dcef-16ba-4aac-a471-9cc48f552725" />
 
 ### Admin Side:
 - **Dashboard:** Overview of total books and sales.
