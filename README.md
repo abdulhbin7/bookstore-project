@@ -1,9 +1,10 @@
-<img width="2560" height="1282" alt="image" src="https://github.com/user-attachments/assets/cb49a883-8529-4293-a080-26745f71fc40" /># 📚 Online Bookstore Project
+# 📚 Online Bookstore Project
 
 A full-featured Online Bookstore application designed to manage book sales and inventory. This project was developed to demonstrate web development skills using the LAMP/WAMP stack.
 
 ## 🚀 Features
 
+<img width="2038" height="1271" alt="image" src="https://github.com/user-attachments/assets/fd929bf8-04e4-46d2-89ab-59fe22dbdee1" />
 
 ### User Side:
 - **User Authentication:** Secure Sign-up and Login system.
